@@ -16,15 +16,16 @@
     <form action="">
         <div>
             <label for="username">Username</label>
-            <input type="text" id="username" name="username">
+            <input type="text" id="username" name="username" minlength="4" maxlength="20" required>
         </div>
         <div><label for="password">Password</label>
-            <input type="password" id="password" name="password">
+            <input type="password" id="password" name="password" minlength="8" required>
         </div>
         <div><label for="remember">Remember me?</label>
             <input type="checkbox" id="remember" name="remember">
         </div>
         <button type="submit">Submit</button>
+        <div>Or register <a href="register.html">here</a></div>
     </form>
 </body>
 
