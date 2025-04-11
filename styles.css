@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    letter-spacing: 3px;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+input {
+    background-color: white;
+    color: black;
+}
+
+body {
+    background-color: rgb(24, 65, 38);
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: palegreen;
+    text-decoration: none;
+}
