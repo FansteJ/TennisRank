@@ -36,10 +36,33 @@ h5 {
 }
 
 .navbar {
-    justify-content: center;
+    display: flex;
+    margin: 0;
+    gap: 15px;
+    padding: 0;
+    list-style: none;
+    font-size: 20px;
 }
 
 .top {
     width: 100%;
+    align-items: center;
     display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav>ul>li:hover {
+    background-color: darkgreen;
 }
