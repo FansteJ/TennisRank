@@ -63,6 +63,21 @@ a:hover {
     text-decoration: underline;
 }
 
-nav>ul>li:hover {
+nav>ul>li a {
+    display: block;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+
+nav>ul>li:hover a {
+    text-decoration: none;
+    color: lime;
     background-color: darkgreen;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+button:hover {
+    background-color: darkred;
+    cursor: pointer;
 }
