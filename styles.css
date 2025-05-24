@@ -39,8 +39,9 @@ h2 {
 }
 
 button {
-    background-color: red;
+    background-color: grey;
     color: white;
+    margin: 5px;
 }
 
 input {
@@ -178,6 +179,18 @@ nav>ul>li:hover a {
 }
 
 button:hover {
-    background-color: darkred;
+    background-color: white;
     cursor: pointer;
+    color: gray;
+}
+
+.navTextbox {
+    border-radius: 999px;
+    background-color: gray;
+    color: white;
+}
+
+input:focus {
+    background-color: white;
+    color: black;
 }
