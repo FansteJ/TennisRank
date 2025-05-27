@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* add text in mainPage.html ([d59447a](https://github.com/FansteJ/TennisRank/commit/d59447a58f1ca4cbaafdd47e028ec42edc0eb722))
+* Add text in mainPage.html ([d59447a](https://github.com/FansteJ/TennisRank/commit/d59447a58f1ca4cbaafdd47e028ec42edc0eb722))
 
 ### [1.0.2](https://github.com/FansteJ/TennisRank/compare/v1.0.1...v1.0.2) (2025-05-27)
 
