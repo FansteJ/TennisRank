@@ -1,0 +1,15 @@
+# Node modules folder (ne treba da se prati)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Paketni fajlovi
+package-lock.json
+yarn.lock
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db
