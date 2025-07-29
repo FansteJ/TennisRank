@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/FansteJ/TennisRank/compare/v1.1.0...v1.2.0) (2025-07-29)
+
+
+### Features
+
+* add Results, atpSingles, atpDoubles, wtaSingles, wtaDoubles, News etc. ([1bbe1ca](https://github.com/FansteJ/TennisRank/commit/1bbe1cafc65f5ce33464abc8033b34ea713dea21))
+
 ## [1.1.0](https://github.com/FansteJ/TennisRank/compare/v1.0.2...v1.1.0) (2025-05-27)
 
 
